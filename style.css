@@ -37,3 +37,31 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-experi{
+    box-shadow: 10px 10px 35px gray;
+    border-radius: 10px;
+    padding: 15px;
+    height: 45%;
+    background-color: white;
+}
+.experiences{
+    background-image: url(developer-portfolio/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,red, pink);
+    border-image-slice: 1;  
+}
+#full-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,red, gold);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
+
